@@ -1,0 +1,14 @@
+{
+  "name": "captainCodeApp",
+  "version": "1.0.0",
+  "description": "CaptainCodeApp",
+  "author": "Capt Code <captaincodeltd@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+	"helmet": "^3.5.0"
+  }
+}
